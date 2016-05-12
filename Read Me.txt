@@ -1,0 +1,1 @@
+To setup template, CD to app dir and enter "npm install" to pull down packages, then "npm start" to run app
